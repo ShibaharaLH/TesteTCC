@@ -1,14 +1,12 @@
 {
   "posts": [
     {
-      "data": {
-        "name": "Leandro Shibahara",
-        "crm": "",
-        "phone": "12345",
-        "email": "leandroshibahara@gmail.com",
-        "password": "123",
-        "isActive": true
-      },
+      "name": "Leandro Shibahara",
+      "crm": "",
+      "phone": "12345",
+      "email": "leandroshibahara@gmail.com",
+      "password": "123",
+      "isActive": true
       "success": true,
       "error": null
     },
