@@ -8,7 +8,7 @@
         "email": "123@123.com",
         "password": "123",
         "isActive": true
-      }
+      },
       "success": true,
       "error": null
     }
