@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "doctor": [
     {
       "crm": 1122,
       "email": "leandroshibahara@gmail.com",
@@ -14,18 +14,6 @@
       "crm": 3344,
       "email": "123123@123.com",
       "password": "123"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
     }
   ],
   "profile": {
