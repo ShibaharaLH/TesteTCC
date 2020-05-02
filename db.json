@@ -3,10 +3,14 @@
     {
       "crm": 1122,
       "email": "leandroshibahara@gmail.com",
-      "password": "123",
+      "password": "123"
+    },
+    {
       "crm": 2233,
       "email": "leandroshiba12@gmail.com",
-      "password": "321",
+      "password": "321"
+    },
+    {
       "crm": 3344,
       "email": "123@123.com",
       "password": "123"
