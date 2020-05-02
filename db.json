@@ -1,32 +1,17 @@
 {
   "posts": [
     {
-      "crm": 1122,
-      "email": "leandroshibahara@gmail.com",
-      "password": "123"
+      "data": {
+        "name": "Leandro Shibahara",
+        "crm": "",
+        "phone": "12345",
+        "email": "leandroshibahara@gmail.com",
+        "password": "123",
+        "isActive": true
+      },
+      "success": true,
+      "error": null
     },
-    {
-      "crm": 2233,
-      "email": "leandroshiba12@gmail.com",
-      "password": "321"
-    },
-    {
-      "crm": 3344,
-      "email": "123@123.com",
-      "password": "123"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
   ],
   "profile": {
     "name": "ShibaharaLH"
