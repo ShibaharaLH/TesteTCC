@@ -6,7 +6,7 @@
       "phone": "12345",
       "email": "leandroshibahara@gmail.com",
       "password": "123",
-      "isActive": true
+      "isActive": true,
       "success": true,
       "error": null
     },
